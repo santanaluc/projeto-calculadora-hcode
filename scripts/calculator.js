@@ -7,6 +7,4 @@
 // View = o que o cliente vê (layout)
 // Controller = define a regra de negócio
 
-let calculadora = new CalcController();
-
-calculadora.displayCalc();
+let calculator = new CalcController();
